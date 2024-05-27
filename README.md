@@ -1,6 +1,6 @@
 # CNN Image Classifier
 
-The repository contains a Convolutional Neural Network (CNN) aimed at classifying images into predefined categories. This project is carried out for academic purposes for the master's course in Artificial Neural Networks and Deep Learning.
+This repository contains a Convolutional Neural Network (CNN) aimed at classifying images into predefined categories. The project is carried out for academic purposes for the master's course in Artificial Neural Networks and Deep Learning.
 
 ## Features
 
